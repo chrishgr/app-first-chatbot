@@ -24,11 +24,6 @@ with st.sidebar:
 st.title("eih bot")
 st.caption("something more text")
 
-# api_key = "AIzaSyA-W6f3UlDPT-3-u5P5s5j8oEa7OuHqs6Y"
-# model_name  = "gemini-2.5-flash"
-
-# genai.configure(api_key=api_key)
-# model=genai.GenerativeModel(model_name)
 
 #st.session_state.clear()
 
